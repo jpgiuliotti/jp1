@@ -1,2 +1,2 @@
 # jp1
-test Hit repository for jp1
+test repository for jp1
